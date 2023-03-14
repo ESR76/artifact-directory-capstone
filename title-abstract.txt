@@ -1,5 +1,5 @@
 Title:
-<Energy Cost and HVAC Optimization in Smart Buildings>
+Energy Cost and HVAC Optimization in Smart Buildings
 
 Abstract:
-<With mounting concerns around climate change and the rising costs of power, optimizing and reducing energy usage is a growing challenge. In order to provide insight on the opportunity for energy usage and cost optimization, we used energy data from a building on UCSD’s campus and auxiliary information about UCSD’s pricing model for energy to build a model that predicts future energy spending and attempted reducing predicted energy spending by controlling two user-set variables.>
+With mounting concerns around climate change and the rising costs of power, optimizing and reducing energy usage is a growing challenge. In order to provide insight on the opportunity for energy usage and cost optimization, we used energy data from a building on UCSD’s campus and auxiliary information about UCSD’s pricing model for energy to build a model that predicts future energy spending and attempted reducing predicted energy spending by controlling two user-set variables.
